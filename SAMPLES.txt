@@ -1,0 +1,25 @@
+Samples
+=======
+wooden_dolphin - Variant of Thai wooden frog instrument, dolphin shape.
+wooden_dolphin/away - Move stick towards dolphin's mouth.
+wooden_dolphin/towards - Move stick towards dolphin's tail.
+wooden_dolphin/squeal - Blow into wind hole.
+cowbell - A cowbell.
+cowbell/dull - Played with a stick so that it doesn't ring.
+cowbell/ring - Played with a stick so that it rings freely.
+small_cowbell - A smaller cowbell.
+small_cowbell/dull - Played with a stick so that it doesn't ring.
+small_cowbell/ring - Played with a stick so that it rings freely.
+tempo_block - A tempo block.
+tempo_block/stick - A tempo block hit with a stick.
+thunder_tube - A thunder tube.
+thunder_tube/flick_bottom - Flick the bottom of the thunder tube, near where the spring is attached.
+thunder_tube/palm_hold - Hit the top of the thunder tube with palm, and hold there.
+thunder_tube/palm_release - Hit the top of thunder tube with palm and immediately release.
+thunder_tube/scrape - Scrape spring, making sure that it doesn't move.
+thunder_tube/scrape_release - Scrape spring and let go, letting it ring.
+thunder_tube/scrape_vibrato - Scrape spring, at varying speeds.
+thunder_tube/shake - Shake the thunder tube.
+vibraslap - A vibraslap.
+vibraslap/hit - Hit the vibraslap.
+vibraslap/extended - Hit the vibraslap, making the sound last longer.
