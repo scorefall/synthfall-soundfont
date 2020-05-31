@@ -23,3 +23,14 @@ thunder_tube/shake - Shake the thunder tube.
 vibraslap - A vibraslap.
 vibraslap/hit - Hit the vibraslap.
 vibraslap/extended - Hit the vibraslap, making the sound last longer.
+cardboard_box - A Cardboard Box.
+cardboard_box/tape - Slap loose tape on the box.
+cardboard_box/tape_cardboard - Slap down one side of the box into the loose tape.
+cardboard_box/tape_release - Release of tape_cardboard.
+cardboard_box/hit - Hit the cardboard box.
+cardboard_box/light_hit - Hit the cardboard box with fingertips, and release immediately.
+cardboard_box/tap - Tap cardboard box with fingernails.
+cardboard_box/flick - Flick the cardboard box.
+cardboard_box/slap - Slap the cardboard box with palm.
+cardboard_box/scrape - Scrape the cardboard box with fingernails.
+cardboard_box/tape_flick - Flick loose tape on cardboard box.
